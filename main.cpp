@@ -2,5 +2,5 @@
 
 int main(int, char**)
 {
-    std::cout << "Hello, goyda!\n";
+    std::cout << "Hello, from gol!\n";
 }
